@@ -1,4 +1,4 @@
 print("Hello world")
-a = ["'a'","'b'","'c'"]
-for i in a:
-    print(i)
+# a = ["'a'","'b'","'c'"]
+# for i in a:
+#     print(i)
